@@ -4,7 +4,7 @@
 
  For XigmaNAS x64 Version 12.x and Later.  
 
- Added Support for Version 14.2 on 12/25/2024.
+ **Added Support for Version 14.2 on 12/25/2024.**
 
 **Credits:**
 
