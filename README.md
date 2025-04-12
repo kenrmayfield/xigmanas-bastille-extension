@@ -2,6 +2,10 @@
 
  This is the XigmaNAS Bastille Extension to create and manage FreeBSD Jails/Containers.
 
+ For XigmaNAS x64 Version 12.x and Later.  
+
+ Added Support for Version 14.2 on 12/25/2024.
+
 **Credits:**
 
  Christer Edwards (cedwards) Bastille, J.M. Rivera (JRGTH) XigmaNAS Add-on.
